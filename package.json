@@ -26,7 +26,7 @@
     "react-video-js-player": "^1.1.1",
     "react-welcome-page": "^0.2.1",
     "scrape-youtube": "^1.1.0",
-    "webtorrent": "^0.112.0",
+    "webschmorrent": "^0.112.0",
     "youtube-api-search": "0.0.5"
   },
   "scripts": {
